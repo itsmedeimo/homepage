@@ -10,19 +10,6 @@
           maxEvents: 10
           showTime: true
           timezone: America/Los_Angeles
-          integrations:
-            - type: sonarr
-              service_group: WhatBox
-              service_name: Sonarr
-              color: teal
-              params:
-                unmonitored: true
-            - type: radarr
-              service_group: WhatBox
-              service_name: Radarr
-              color: yellow
-              params:
-                unmonitored: true
 - Local Services:
     - Proxmox:
         icon: proxmox.svg
@@ -45,16 +32,6 @@
         href: {{HOMEPAGE_VAR_DODGE_LOCAL_URL}}
         target: _self
         description: Fancy Docker
-    - piHole:
-        icon: si-pihole-#96060C
-        href: {{HOMEPAGE_VAR_PIHOLE_HREF}}
-        target: _self
-        widget:
-            type: pihole
-            url: {{HOMEPAGE_VAR_PIHOLE_URL}}
-            version: 5 # required if running v6 or higher, defaults to 5
-            key: {{HOMEPAGE_VAR_PIHOLE_API_KEY}}
-
 - Cloud:
     - Nginx Proxy Manager2:
         icon: si-nginxproxymanager-#F15833
