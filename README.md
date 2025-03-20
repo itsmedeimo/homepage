@@ -24,15 +24,15 @@ networks:
 ```
 
 ## Configuration
-The files are located inside the [config folder](/configuration)
+The files are located inside the [config folder](/config)
 ### Settings
-[settings.yaml](/configuration/settings.yaml)
+[settings.yaml](/config/settings.yaml)
 
 ### Bookmarks
-[bookmarks.yaml](/configuration/bookmarks.yaml)
+[bookmarks.yaml](/config/bookmarks.yaml)
 
 ### Services
-[services.yaml](/configuration/services.yaml)
+[services.yaml](/config/services.yaml)
 
 ### Widgets
-[widgets.yaml](/configuration/widgets.yaml)
+[widgets.yaml](/config/widgets.yaml)
