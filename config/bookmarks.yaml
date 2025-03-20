@@ -39,7 +39,7 @@
           description: Online Shopping Monopoly
 - IT:
     - Hostinger:
-        - icon: https://icons-for-free.com/iff/png/512/Hostinger-1329545820965555584.png
+        - abbr: H
           href: https://hpanel.hostinger.com
           target: _self
           description: Web Hosting

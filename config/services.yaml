@@ -81,49 +81,6 @@
             url: {{HOMEPAGE_VAR_LINKWARDEN_URL}}
             key: {{HOMEPAGE_VAR_LINKWARDEN_KEY}}
 
-- WhatBox:
-    - Jellyfin:
-        icon: si-jellyfin
-        href: {{HOMEPAGE_VAR_JELLYFIN_URL}}
-        target: _self
-        description: Media Player
-        widget:
-          type: jellyfin
-          url: {{HOMEPAGE_VAR_JELLYFIN_URL}}
-          key: {{HOMEPAGE_VAR_JELLYFIN_API}}
-          enableBlocks: true
-          enableNowPlaying: true
-    - Prowlarr:
-        icon: prowlarr.svg
-        href: {{HOMEPAGE_VAR_PROWLAR_URL}}
-        target: _self
-        description: Index Pull Automation
-        widget:
-          type: prowlarr
-          url: {{HOMEPAGE_VAR_PROWLAR_URL}}
-          key: {{HOMEPAGE_VAR_PROWLAR_API}}
-          enableQueue: false
-    - Radarr:
-        icon: radarr.svg
-        href: {{HOMEPAGE_VAR_RADARR_URL}}
-        target: _self
-        description: Movie Pull Automation
-        widget:
-          type: radarr
-          url: {{HOMEPAGE_VAR_RADARR_URL}}
-          key: {{HOMEPAGE_VAR_RADARR_API}}
-          enableQueue: false
-    - Sonarr:
-        icon: sonarr.svg
-        href: {{HOMEPAGE_VAR_SONARR_URL}}
-        target: _self
-        description: TV Pull Automation
-        widget:
-          type: sonarr
-          url: {{HOMEPAGE_VAR_SONARR_URL}}
-          key: {{HOMEPAGE_VAR_SONARR_KEY}}
-          enableQueue: false
-
 - Monitor:
     - My Speed Local:
         icon: myspeed.svg

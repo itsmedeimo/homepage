@@ -34,13 +34,9 @@ layout:
     columns: 3
   Local Services:
     header: true
-    style: column
-    columns: 4
+    style: row
+    columns: 3
   Cloud:
     header: true
-    style: column
-    columns: 4
-  WhatBox:
-    header: true
-    style: column
-    columns: 4
+    style: row
+    columns: 3
