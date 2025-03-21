@@ -53,19 +53,24 @@
           href: https://www.reddit.com
           target: _self
           description: Where experts, trolls, and meme lords unite
+    - Github:
+        - icon: github.svg
+          href: https://github.com/
+          target: _self
+          description: Where developers argue with themselves via commit messages
     - ChatGPT:
         - icon: chatgpt.svg
           href: https://chat.openai.com
           target: _self
-          description: Chat Bot
+          description: Your AI homie who never sleeps, never eats, but always got the answers
     - LXC Scripts:
-        - icon: github.svg
+        - icon: https://community-scripts.github.io/ProxmoxVE/logo.png
           href: https://helper-scripts.com/scripts
           target: _self
           description: Proxmox VE Helper Scripts
-    - Dashboard Icons:
-        - icon: github.svg
-          href: https://github.com/walkxcode/dashboard-icons
+    - Noted.lol:
+        - icon: https://noted.lol/content/images/size/w256h256/2023/08/Icon-1.2-1.png
+          href: Home Lab, Self Hosting, Security, and all things Open Source
           target: _self
           description: Icon Repository
 - Gaming:
@@ -74,6 +79,11 @@
           href: https://dashboard.twitch.tv/u/itsmedeimo/stream-manager
           target: _self
           description: My Twitch Dashboard
+    - StreamElements:
+        - icon: https://cdn-images-1.medium.com/v2/resize:fit:1200/1*8npdfsLSO776rf90SIX5pg.png
+          href: https://streamelements.com/dashboard
+          target: _self
+          description: StreamElements
     - NoPixel:
         - icon: https://nopixel-minigames.vercel.app/_next/image?url=%2Fnopixel-logo.png&w=64&q=75
           href: https://www.nopixel.net
@@ -84,13 +94,18 @@
           href: https://nopixel.hasroot.com/
           target: _self
           description: NoPixel Streams
-    - StreamElements:
-        - icon: https://cdn-images-1.medium.com/v2/resize:fit:1200/1*8npdfsLSO776rf90SIX5pg.png
-          href: https://streamelements.com/
+    - Kick:
+        - icon: https://static.vecteezy.com/system/resources/thumbnails/043/362/263/small/kick-logo-icon-streaming-service-free-vector.jpg
+          href: https://kick.com/
           target: _self
-          description: StreamElements
-    - Fiverr:
-        - abbr: F
-          href: https://www.fiverr.com
+          description: Twitch’s rebellious cousin
+    - Deimo.me:
+        - abbr: D
+          href: https://deimo.me
           target: _self
-          description: Hire someone to design your logo, write your jingle, or train your cat
+          description: My Corner of the internet
+    - Proton Mail:
+        - icon: https://kappa.lol/WpLnrv.jpg
+          href: https://mail.proton.me
+          target: _self
+          description: A digital Fort Knox for your emails
