@@ -69,6 +69,11 @@
           target: _self
           description: Icon Repository
 - Gaming:
+    - Twitch Dashboard:
+        - icon: twitch.svg
+          href: https://dashboard.twitch.tv/u/itsmedeimo/stream-manager
+          target: _self
+          description: My Twitch Dashboard
     - NoPixel:
         - icon: https://nopixel-minigames.vercel.app/_next/image?url=%2Fnopixel-logo.png&w=64&q=75
           href: https://www.nopixel.net
@@ -79,16 +84,11 @@
           href: https://nopixel.hasroot.com/
           target: _self
           description: NoPixel Streams
-    - Twitch Dashboard:
-        - icon: twitch.svg
-          href: https://dashboard.twitch.tv/u/itsmedeimo/stream-manager
+    - StreamElements:
+        - icon: https://cdn-images-1.medium.com/v2/resize:fit:1200/1*8npdfsLSO776rf90SIX5pg.png
+          href: https://streamelements.com/
           target: _self
-          description: My Twitch Dashboard
-    - FossaBot:
-        - icon: https://static-assets.fossabot.com/images/fossabot-1024.png
-          href: https://fossabot.com/c/itsmedeimo/dashboard
-          target: _self
-          description: FossaBot for Twitch
+          description: StreamElements
     - Fiverr:
         - abbr: F
           href: https://www.fiverr.com
