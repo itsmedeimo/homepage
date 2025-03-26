@@ -70,9 +70,9 @@
           description: Proxmox VE Helper Scripts
     - Noted.lol:
         - icon: https://noted.lol/content/images/size/w256h256/2023/08/Icon-1.2-1.png
-          href: Home Lab, Self Hosting, Security, and all things Open Source
+          href: https://noted.lol
           target: _self
-          description: Icon Repository
+          description: Home Lab, Self Hosting, Security, and all things Open Source
 - Gaming:
     - Twitch Dashboard:
         - icon: twitch.svg
