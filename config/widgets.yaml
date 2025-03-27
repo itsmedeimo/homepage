@@ -19,8 +19,8 @@
 
 - search:
     provider: google
-    target: _blank
     focus: true
+    target: _blank
     showSearchSuggestions: true
 
 - openmeteo:
