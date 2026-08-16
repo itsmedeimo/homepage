@@ -1,8 +1,8 @@
 title: Deimo's Homepage
 headerStyle: clean
 background:
-  image: https://kappa.lol/tJW_3.jpeg
-  blur: md
+  image: images/interestellar.webp
+  blur: sm
   saturate: 50
   brightness: 50
   opacity: 70
@@ -17,13 +17,13 @@ quicklaunch:
 hideVersion: false
 layout:
   Quick:
-    header: false
+    header: ture
     style: column
   IT:
-    header: false
+    header: true
     style: column
   Gaming:
-    header: false
+    header: true
     style: column
   Calendar:
     header: false
